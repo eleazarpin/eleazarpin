@@ -40,18 +40,21 @@
 </p>
 
 
-<div>
- ## My Github Public Stats
+## My Github Public Stats
+<div> 
 <p align="center">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=eleazarpin&show_icons=true&theme=radical&title_color=61f2f5" alt="eleazarpin" />
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleazarpin&layout=compact&theme=radical&title_color=61f2f5" alt="eleazarpin" />
 </p>
- ## Social Media
+</div>
+
+## Social Media
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap:50px;">
+ <p align="center">
 <a style="margin: 0 0.8rem; outline: none;" href="https://www.linkedin.com/in/eleazar-pin-etchave-24a93b138/" target="blank">
  <img src="https://e7.pngegg.com/pngimages/774/981/png-clipart-linkedin-linkedin.png" alt="eleazar pin etchave" width="30" />
 </a>
-</div>
+  </p>
 </div>
 
 

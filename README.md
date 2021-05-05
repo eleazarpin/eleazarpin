@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-## About me
-
 My name is Eleazar, nice to meet you!
+
+## About me
 
 - 🌱 I’m currently learning something related with programming stuff
 

@@ -42,9 +42,9 @@
 
 ## My Github Public Stats
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eleazarpin&show_icons=true&theme=radical&title_color=61f2f5"></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleazarpin&show_icons=true&theme=radical&title_color=61f2f5"></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eleazarpin&show_icons=true&theme=radical&title_color=61f2f5"></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleazarpin&show_icons=true&theme=radical&title_color=61f2f5"></p>
 </div>
 
-## Hi
+## Social Media
 

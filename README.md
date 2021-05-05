@@ -40,10 +40,14 @@
 </p>
 
 ## My Github Public Stats
-<p align="center">
-  <img align="left" src = "https://github-readme-stats.vercel.app/api?username=eleazarpin&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleazarpin&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515" />
-</p>
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eleazarpin&show_icons=true&theme=radical&title_color=61f2f5" alt="eleazarpin" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleazarpi&layout=compact&theme=radical&title_color=61f2f5" alt="eleazarpin" /></p>
+</div>
 
 ## Social Media
-<a style="margin: 0 0.8rem; outline: none;" href="https://www.linkedin.com/in/eleazar-pin-etchave-24a93b138/" target="blank"><img src=https://e7.pngegg.com/pngimages/774/981/png-clipart-linkedin-linkedin.png" alt="eleazar pin etchave" width="30" /></a>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap:50px;">
+<a style="margin: 0 0.8rem; outline: none;" href="https://www.linkedin.com/in/eleazar-pin-etchave-24a93b138/" target="blank">
+ <img src="https://e7.pngegg.com/pngimages/774/981/png-clipart-linkedin-linkedin.png" alt="eleazar pin etchave" width="30" />
+</a>
+ </div>

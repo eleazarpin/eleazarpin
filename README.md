@@ -18,7 +18,7 @@
 
 **🔭 Languages, Frameworks and Tools**
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"> 
 <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"> 
@@ -28,8 +28,8 @@
  <img src="https://img.shields.io/badge/-Vue%20JS-4FC08D?style=flat&logo=vue.js&logoColor=white"> 
  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white"> 
  <img src="https://img.shields.io/badge/-Wordpress-21759B?style=flat&logo=wordpress&logoColor=white"> 
-</br>
-</br>
+</p>
+<p>
 <img src="https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white"> 
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"> 
 <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white"> 

@@ -47,4 +47,4 @@
 </div>
 
 ## Social Media
-
+[<img src='https://image.flaticon.com/icons/png/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/eleazar-pin-etchave-24a93b138/)

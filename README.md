@@ -14,14 +14,29 @@
 - ⚡ Fun fact: ...
 - -->
  
- 
+</br>
+
 **🔭 Languages, Frameworks and Tools**
 
 <p align="center">
-<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/-Angular%20JS-E23237?style=flat&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/-React%20JS-61DAFB?style=flat&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/-Vue%20JS-4FC08D?style=flat&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white"> <img src="https://img.shields.io/badge/-Wordpress-21759B?style=flat&logo=wordpress&logoColor=white"> 
+<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"> 
+<img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> 
+ <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/-Angular%20JS-E23237?style=flat&logo=angular&logoColor=white"> 
+ <img src="https://img.shields.io/badge/-React%20JS-61DAFB?style=flat&logo=react&logoColor=white"> 
+ <img src="https://img.shields.io/badge/-Vue%20JS-4FC08D?style=flat&logo=vue.js&logoColor=white"> 
+ <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white"> 
+ <img src="https://img.shields.io/badge/-Wordpress-21759B?style=flat&logo=wordpress&logoColor=white"> 
 </br>
 </br>
-<img src="https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white"> <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/-GitKraken-179287?style=flat&logo=gitkraken&logoColor=white"> <img src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/-yarn-2C8EBB?style=flat&logo=yarn&logoColor=white">
+<img src="https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/-GitKraken-179287?style=flat&logo=gitkraken&logoColor=white"> 
+<img src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"> 
+<img src="https://img.shields.io/badge/-yarn-2C8EBB?style=flat&logo=yarn&logoColor=white">
 </p>
 
 ## My Github Public Stats
@@ -29,3 +44,6 @@
   <img align="left" src = "https://github-readme-stats.vercel.app/api?username=eleazarpin&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleazarpin&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515" />
 </p>
+
+## Social Media
+<a style="margin: 0 0.8rem; outline: none;" href="https://www.linkedin.com/in/eleazar-pin-etchave-24a93b138/" target="blank"><img src="./assets/social-media/linkedin.svg" alt="eleazar pin etchave" width="30" /></a>

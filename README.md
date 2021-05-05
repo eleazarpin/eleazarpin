@@ -1,4 +1,5 @@
-### Hi there 👋 My name is Eleazar, nice to meet you!
+### Hi there 👋
+### My name is Eleazar, nice to meet you!
 
 ## About me
 

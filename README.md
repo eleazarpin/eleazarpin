@@ -48,13 +48,4 @@
 </p>
 </div>
 
-## Social Media
-<div>
- <p>
-<a style="margin: 0 0.8rem; outline: none;" href="https://www.linkedin.com/in/eleazar-pin-etchave-24a93b138/" target="blank">
- <img src="https://e7.pngegg.com/pngimages/774/981/png-clipart-linkedin-linkedin.png" alt="eleazar pin etchave" width="30" />
-</a>
-  </p>
-</div>
-
 

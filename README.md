@@ -41,11 +41,9 @@
 
 
 ## My Github Public Stats
-<div> 
 <p align="center">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=eleazarpin&show_icons=true&theme=radical&title_color=61f2f5" alt="eleazarpin" />
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleazarpin&layout=compact&theme=radical&title_color=61f2f5" alt="eleazarpin" />
 </p>
-</div>
 
-
+## Social Media

@@ -50,9 +50,9 @@ I also teach **Languages & Compilers** at **UNLaM (Universidad Nacional de La Ma
 
 #### GitHub stats
 
-![Eleazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=eleazarpin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Eleazar's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=eleazarpin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eleazarpin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eleazarpin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ---
 
